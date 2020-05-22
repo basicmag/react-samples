@@ -1,0 +1,9 @@
+baseURL = "https://ba\sicmag.github.io/react-samples/MyHomepage/"
+languageCode = "ja-jp"
+title = "Nakano Hitoshiについて"
+theme = "cocoa-hugo-theme"
+author = "Nakano Hitoshi"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
